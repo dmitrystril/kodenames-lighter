@@ -50,3 +50,11 @@ Tips:
 5. При нажатии на кнопки перехода к столу: передать ключ в функцию createGame(key) на сервер
 6. Получить от сервера новый список карт для нового ключа или существующий список для существующего ключа и перейти к столу в соответствующий режим: капитан/общее игровое поле
 7. При окончании игры удалить сохраненную игры
+
+##### Read before continue
+- https://tousu.in/qa/?qa=387457/
+- https://dev.to/dsckiitdev/build-a-chat-app-with-graphql-subscriptions-typescript-part-1-2p70
+- https://www.howtographql.com/graphql-js/7-subscriptions/
+- https://michaelstromer.nyc/books/strongly-typed-apps/subscriptions
+- https://medium.com/@doyun.kim3878/graphql-subscriptions-in-2021-the-backend-b602b1fe6e15
+
