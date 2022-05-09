@@ -1,0 +1,14 @@
+mutation createGame($gameKey: String!) {
+  createGame(gameKey: $gameKey) {
+    id
+    cards {
+      id
+      no
+      word
+      type
+      isOpen
+      isActive
+    }
+    dateCreated
+  }
+}
